@@ -1,8 +1,11 @@
 ### Hi there, I'm Stefanie 👋
-🎶  I like music <br>
+
+🎹  I like music <br>
+💯  ...nice design <br>
 👾  ...and coding <br>
 🐠  I am currently doing a Web Development bootcamp at [neuefische](https://www.neuefische.de/bootcamp/web-development)
 
+![vinylshelve](https://www.usm.com/media/1821/usm_0006251.jpg)
 
 <!--
 **StefanieLoeser/StefanieLoeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
