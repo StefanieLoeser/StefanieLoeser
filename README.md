@@ -1,7 +1,8 @@
 ### Hi there, I'm Stefanie 👋
-🎶  I like music </br>
-👾  ...and coding </br>
-🐠  I am currently doing a Web Development Bootcamp at neuefische
+🎶  I like music <br>
+👾  ...and coding <br>
+🐠  I am currently doing a Web Development bootcamp at [neuefische](https://www.neuefische.de/bootcamp/web-development)
+
 
 <!--
 **StefanieLoeser/StefanieLoeser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
