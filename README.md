@@ -5,23 +5,6 @@
 👾  ...and coding <br>
 🐠  I am currently doing a Web Development bootcamp at [neuefische](https://www.neuefische.de/bootcamp/web-development)
 
-<p><a href="https://github.com/StefanieLoeser/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a></p>
-
-![vinylshelve](https://www.usm.com/media/1821/usm_0006251.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
