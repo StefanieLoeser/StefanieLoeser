@@ -3,7 +3,7 @@
 🎹  I like music <br>
 💯  ...nice design <br>
 👾  ...and coding <br>
-🐠  I am currently doing a Web Development bootcamp at [neuefische](https://www.neuefische.de/bootcamp/web-development)
+🐠  and loved the Web Development bootcamp at [neuefische](https://www.neuefische.de/bootcamp/web-development)
 
 
 
